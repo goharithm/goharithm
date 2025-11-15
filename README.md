@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Mohamed Elgohary</h1>
+<p align="center">A developer who is constantly learning, building, and improving.</p>
 
-<!--
-**goharithm/goharithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Passionate about software development & problem solving  
+- 📚 Currently strengthening my CS fundamentals  
+- 🧠 Learning step-by-step and documenting my journey through code  
+- 🎯 Interested in clean code, good practices, and building useful projects  
+- 🌱 Believe in consistency — one commit at a time  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools  
+### 💡 Currently Working On:
+- Programming fundamentals  
+- Object-Oriented Programming  
+- Algorithms & Data Structures  
+- Basic Web Technologies (HTML, CSS, JS)  
+- Working with Git & GitHub  
+
+### 🔧 Tools I Use:
+- C++  
+- Git / GitHub  
+- VS Code  
+- Linux / Windows terminal  
+
+---
+
+## 📂 Featured Projects
+### 🔹 **Bank Management System (C++)**
+A console-based system implementing banking operations  
+(OOP + file handling + modular design)  
+👉 *Repo:* https://github.com/goharithm/Bank-System
+
+### 🔹 More projects coming soon…
+As I learn more, I will keep adding new projects here.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goharithm&theme=tokyonight" height="150px"/>
+</p>
+
+---
+
+## 📩 Contact Me  
+- 💬 Feel free to reach out: **(add email or LinkedIn if you want)**  
+- ⭐ If you like my work, consider starring my repositories!
+
+---
+
+<p align="center">✨ Always learning. Always improving. ✨</p>
+
