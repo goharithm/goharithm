@@ -13,6 +13,7 @@
 ---
 
 ## 🛠️ Skills & Tools  
+
 ### 💡 Currently Working On:
 - Programming fundamentals  
 - Object-Oriented Programming  
@@ -29,13 +30,14 @@
 ---
 
 ## 📂 Featured Projects
-### 🔹 **Bank Management System (C++)**
-A console-based system implementing banking operations  
-(OOP + file handling + modular design)  
-👉 *Repo:* https://github.com/goharithm/Bank-System
+
+### 🔹 Bank Management System (C++)
+A console-based system implementing essential banking operations.  
+Built using OOP principles and file handling.  
+👉 **Repo:** https://github.com/goharithm/Bank-System
 
 ### 🔹 More projects coming soon…
-As I learn more, I will keep adding new projects here.
+As I learn more, I will keep adding real, useful projects to this profile.
 
 ---
 
@@ -48,10 +50,10 @@ As I learn more, I will keep adding new projects here.
 ---
 
 ## 📩 Contact Me  
-- 💬 Feel free to reach out: **(add email or LinkedIn if you want)**  
+- 💬 Feel free to reach out anytime  
+- 📧 Email: **goharithm@gmail.com**  
 - ⭐ If you like my work, consider starring my repositories!
 
 ---
 
 <p align="center">✨ Always learning. Always improving. ✨</p>
-
