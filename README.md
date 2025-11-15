@@ -1,59 +1,103 @@
-<h1 align="center">👋 Hi, I'm Mohamed Elgohary</h1>
-<p align="center">A developer who is constantly learning, building, and improving.</p>
+<div align="center">
+
+<!-- Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=15F4EE&center=true&vCenter=true&width=600&lines=Welcome+to+goharithm's+Terminal...;Learning+Linux+and+Programming;C%2B%2B+%7C+Python+%7C+Node.js;Step+by+Step+I'm+Improving" />
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 💻 Passionate about software development & problem solving  
-- 📚 Currently strengthening my CS fundamentals  
-- 🧠 Learning step-by-step and documenting my journey through code  
-- 🎯 Interested in clean code, good practices, and building useful projects  
-- 🌱 Believe in consistency — one commit at a time  
+# 👾 ASCII ID
+```
+   ____       _           _     _   _                 
+  / ___| ___ | |__   ___ | | __| | | |__   ___ _ __   
+ | |  _ / _ \| '_ \ / _ \| |/ _` | | '_ \ / _ \ '__|  
+ | |_| | (_) | | | | (_) | | (_| | | | | |  __/ |     
+  \____|\___/|_| |_|\___/|_|\__,_| |_| |_|\___|_|     
+```
 
 ---
 
-## 🛠️ Skills & Tools  
+# 🧑‍💻 whoami (Animated Terminal)
 
-### 💡 Currently Working On:
-- Programming fundamentals  
-- Object-Oriented Programming  
-- Algorithms & Data Structures  
-- Basic Web Technologies (HTML, CSS, JS)  
-- Working with Git & GitHub  
+![Terminal](https://asciinema.org/a/596199.svg)
 
-### 🔧 Tools I Use:
-- C++  
-- Git / GitHub  
-- VS Code  
-- Linux / Windows terminal  
+> *This is an animated terminal preview — no code, just the vibes.*
 
----
-
-## 📂 Featured Projects
-
-### 🔹 Bank Management System (C++)
-A console-based system implementing essential banking operations.  
-Built using OOP principles and file handling.  
-👉 **Repo:** https://github.com/goharithm/Bank-System
-
-### 🔹 More projects coming soon…
-As I learn more, I will keep adding real, useful projects to this profile.
+```
+┌[goharithm@github]-(~)
+└> whoami
+ Beginner Linux user & aspiring backend dev
+ Learning: C++, Python, Node.js
+ Tools: Git, Emacs, Bash
+ Distros tried: Debian, NixOS, Arch, Fedora
+```
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goharithm&theme=tokyonight" height="150px"/>
-</p>
+# ⚙️ Tech & Tools
+
+<div align="center">
+
+![skills](https://skillicons.dev/icons?i=linux,cpp,py,nodejs,git,emacs,bash,debian,arch,nixos,fedora&theme=dark)
+
+</div>
 
 ---
 
-## 📩 Contact Me  
-- 💬 Feel free to reach out anytime  
-- 📧 Email: **goharithm@gmail.com**  
-- ⭐ If you like my work, consider starring my repositories!
+# 📚 Learning Roadmap (2025)
+
+### 🔹 **1. Linux Mastery (Basics → Intermediate)**
+- File system, permissions  
+- Bash scripting  
+- Package management (APT, Pacman, DNF, Nix)  
+- System tools & troubleshooting  
+
+### 🔹 **2. C++ Fundamentals**
+- Variables, loops, functions  
+- Pointers & memory basics  
+- Simple projects & CLI tools  
+
+### 🔹 **3. Python Scripting**
+- Automations  
+- Small utilities  
+- Problem solving  
+
+### 🔹 **4. Node.js Basics**
+- Building simple APIs  
+- Understanding async programming  
+- Using Express  
+
+### 🔹 **5. Tools & Environment**
+- Emacs basics (editing, buffers, windows)  
+- Git workflow  
+- Better CLI workflow  
+
+> *Slow steps — consistent progress.*
 
 ---
 
-<p align="center">✨ Always learning. Always improving. ✨</p>
+# 🧪 Practice Projects (Growing Slowly)
+
+- 🧩 **C++** — small exercises & tiny CLI tools  
+- 🐍 **Python** — scripts to practice logic  
+- 🟢 **Node.js** — minimal backend experiments  
+
+> عندما تتقدم نضيف مشاريع حقيقية هنا.
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight" height="150px"/>
+
+</div>
+
+---
+
+# 📝 Note
+I'm still learning — nothing fancy, but every day I try to get better.
+
