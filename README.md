@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=goharithm&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Goharithm&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <h3>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=700&lines=Linux+Enthusiast+%7C+Systems+Explorer+%F0%9F%90%A7;C%2B%2B+Developer+%7C+Python+Scripter+%F0%9F%92%BB;Building+Real+Projects+%7C+Learning+Daily+%F0%9F%9A%80;Terminal+Lover+%7C+Open+Source+Believer+%E2%9C%A8" alt="Typing SVG" />
@@ -20,66 +20,46 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+<table>
+<tr>
+<td width="50%" valign="top">
 
-class Developer:
-    """
-    A passionate developer exploring the depths of systems programming
-    and building real-world applications that matter.
-    """
+```javascript
+const Goharithm = {
+    location: "Egypt 🇪🇬",
+    role: "Systems Developer",
+    currentProject: "Banking System (C++)",
     
-    def __init__(self):
-        self.username = "goharithm"
-        self.location = "Egypt 🇪🇬"
-        self.role = "Systems Developer & Linux Enthusiast"
-        
-        # Current mission
-        self.working_on = {
-            "project": "Banking System",
-            "language": "C++",
-            "features": ["OOP", "File Persistence", "Security", "CLI Interface"],
-            "progress": 0.65  # 65% complete
-        }
-        
-        # Technical arsenal
-        self.skills = {
-            "languages": ["C++", "Python", "JavaScript", "Bash"],
-            "systems": ["Linux", "Arch", "Debian", "NixOS", "Fedora"],
-            "tools": ["Git", "Docker", "CMake", "Emacs", "Kitty", "Hyprland"],
-            "learning": ["Rust", "Go", "Kernel Development"]
-        }
-        
-        # Daily driver
-        self.setup = {
-            "OS": "Arch Linux",
-            "WM": "Hyprland",
-            "Terminal": "Kitty", 
-            "Shell": "Zsh + Starship",
-            "Editor": "Emacs + Evil",
-            "Theme": "Tokyo Night"
-        }
+    workingOn: [
+        "Building production-grade applications",
+        "Exploring Linux kernel internals",
+        "Crafting elegant CLI tools"
+    ],
     
-    def current_focus(self):
-        return [
-            "🏦 Building production-grade Banking System",
-            "🐧 Deep diving into Linux internals",
-            "🔧 Crafting elegant CLI tools",
-            "📚 Mastering systems programming"
-        ]
-    
-    def life_philosophy(self):
-        return """
-        Code is poetry written for machines, read by humans.
-        Linux is freedom. Bugs are lessons. Open source is community.
-        Every line matters. Every commit counts. Every project teaches.
-        """
-
-# Initialize
-me = Developer()
-print(me.life_philosophy())
+    techStack: {
+        languages: ["C++", "Python", "JavaScript", "Bash"],
+        systems: ["Arch Linux", "Debian", "NixOS"],
+        tools: ["Git", "Docker", "Emacs", "Hyprland"]
+    }
+};
 ```
+
+</td>
+<td width="50%" valign="top">
+
+<br>
+
+### 🎯 Quick Facts
+
+- 🔭 Building a **Banking System** in C++
+- 🌱 Learning **Rust** & **Systems Programming**
+- 💻 Daily driver: **Arch + Hyprland + Kitty**
+- 🎨 Theme enthusiast: **Tokyo Night**
+- ⚡ Philosophy: *Build. Learn. Share.*
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
@@ -121,7 +101,7 @@ Features:
 ### ⚙️ dotfiles
 [![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/dotfiles)
 
-**My meticulously crafted Linux configs**
+**Meticulously crafted Linux configs**
 
 ```bash
 Configurations:
@@ -224,15 +204,11 @@ Upcoming:
 
 </details>
 
-### 📊 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&langs_count=8&hide=html,css" />
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 GitHub Performance
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -251,9 +227,13 @@ Upcoming:
 </tr>
 </table>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&langs_count=8&hide=html,css" />
+
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=goharithm&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true" />
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=goharithm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
@@ -261,10 +241,10 @@ Upcoming:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📚 Learning Path & Roadmap
+## 📚 Learning Roadmap
 
 <details open>
-<summary><b>🎯 Current Focus Areas</b></summary>
+<summary><b>🎯 Current Learning Path</b></summary>
 <br>
 
 <table>
@@ -279,7 +259,7 @@ Upcoming:
 - 📋 Concurrency & Threading
 - 📋 Design Patterns
 
-**Current Project:** Banking System
+**Project:** Banking System
 
 </td>
 <td width="50%">
@@ -349,51 +329,59 @@ Upcoming:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💭 Philosophy & Principles
+## 💎 Core Values
 
 <div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   "Code is poetry written for machines, read by humans."               ║
-║                                                                          ║
-║   "The best way to learn is to build. The best way to master           ║
-║    is to teach. The best way to contribute is to share."               ║
-║                                                                          ║
-║   "Bugs are not failures—they're lessons in disguise."                 ║
-║                                                                          ║
-║   "Linux is freedom. Open source is community. Every commit matters."  ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-### Core Values
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/code.png" width="48"/>
-<br><b>Clean Code</b>
-<br><sub>Readable & Maintainable</sub>
+<br>
+<img src="https://img.icons8.com/fluency/96/code.png" width="64"/>
+<br><br>
+<b>Clean Code</b>
+<br>
+<sub>Readable & Maintainable</sub>
+<br><br>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/learning.png" width="48"/>
-<br><b>Continuous Learning</b>
-<br><sub>Always Growing</sub>
+<br>
+<img src="https://img.icons8.com/fluency/96/learning.png" width="64"/>
+<br><br>
+<b>Continuous Learning</b>
+<br>
+<sub>Always Growing</sub>
+<br><br>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/collaboration.png" width="48"/>
-<br><b>Open Source</b>
-<br><sub>Community First</sub>
+<br>
+<img src="https://img.icons8.com/fluency/96/collaboration.png" width="64"/>
+<br><br>
+<b>Open Source</b>
+<br>
+<sub>Community First</sub>
+<br><br>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/engineering.png" width="48"/>
-<br><b>Build Real</b>
-<br><sub>Projects That Matter</sub>
+<br>
+<img src="https://img.icons8.com/fluency/96/settings.png" width="64"/>
+<br><br>
+<b>Build Real</b>
+<br>
+<sub>Projects That Matter</sub>
+<br><br>
 </td>
 </tr>
 </table>
+
+<br>
+
+### 💭 Philosophy
+
+<sub>
+"Code is poetry. Linux is freedom. Bugs are lessons."<br>
+"Build real projects. Learn by doing. Share with the community."
+</sub>
 
 </div>
 
@@ -403,30 +391,30 @@ Upcoming:
 
 <div align="center">
 
-### Find me across the web
+<br>
 
-<p>
 <a href="mailto:goharithm@gmail.com">
   <img src="https://img.shields.io/badge/Email-goharithm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/goharithm">
-  <img src="https://img.shields.io/badge/LinkedIn-goharithm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Goharithm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/goharithm">
-  <img src="https://img.shields.io/badge/Twitter-@goharithm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-@Goharithm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://discord.com/users/goharithm">
-  <img src="https://img.shields.io/badge/Discord-goharithm-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Goharithm-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
-</p>
+
+<br><br>
+
+### 🐧 *"Talk is cheap. Show me the code."* – Linus Torvalds
 
 <br>
 
-### 💬 "Talk is cheap. Show me the code." – Linus Torvalds
+**⭐ Star my repos if you find them useful!**
 
 <br>
-
-**⭐ If you find my projects useful, consider giving them a star!**
 
 </div>
 
@@ -435,7 +423,11 @@ Upcoming:
 <div align="center">
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goharithm/goharithm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goharithm/goharithm/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/goharithm/goharithm/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br><br>
 
