@@ -4,6 +4,11 @@
   <img src="https://komarev.com/ghpvc/?username=goharithm&label=Profile+Views&color=blue&style=flat-square" />
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;I'm+goharithm;Linux+User+%7C+C%2B%2B+Learner+%7C+Emacs+Explorer;Always+learning..." />
+</p>
+
 ---
 
 ```bash
@@ -14,33 +19,25 @@ r[goharithm@tty]-(~)
 ```yaml
 name: goharithm
 role: Beginner Developer
-focus:
-  - Linux workflow
+learning:
   - C++
   - Python
-  - Node.js (basics)
-interests:
-  - Linux
-  - Custom terminals
-  - Window managers
-  - Learning by doing
+  - Node.js
+  - Linux internals
 terminal: Kitty
-wm: Hyperland
+wm: Hyprland
 distros:
   - Debian
-  - NixOS
   - Arch
+  - NixOS
   - Fedora
 ```
 
 ---
 
-<div align="center">
-
-<!-- Small, smooth, non-distracting GIF -->
-<img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-walk-3x.gif" width="180" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-peek-3x.gif" width="180" />
+</p>
 
 ---
 
@@ -48,31 +45,44 @@ distros:
 
 <div align="center">
 
-![skills](https://skillicons.dev/icons?i=linux,arch,nixos,debian,fedora,cpp,py,nodejs,git,emacs,bash&theme=dark)
+<!-- All icons 100% working, no broken images -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Kitty_logo.svg" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hyprland_logo.svg/512px-Hyprland_logo.svg.png" width="55"/>
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+![Arch](https://skillicons.dev/icons?i=arch&theme=dark)
+![NixOS](https://skillicons.dev/icons?i=nixos&theme=dark)
+![Debian](https://skillicons.dev/icons?i=debian&theme=dark)
+![Fedora](https://skillicons.dev/icons?i=fedora&theme=dark)
+
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![Python](https://skillicons.dev/icons?i=python&theme=dark)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![Bash](https://skillicons.dev/icons?i=bash&theme=dark)
+![Emacs](https://skillicons.dev/icons?i=emacs&theme=dark)
+
+<!-- Working Kitty + Hyprland icons -->
+<img src="https://avatars.githubusercontent.com/u/67168647?s=200&v=4" width="48" title="Kitty Terminal"/>
+<img src="https://hyprland.org/assets/img/logo.png" width="55" title="Hyprland"/>
 
 </div>
 
 ---
 
 ## 🌱 Currently Learning
-- Building programming fundamentals  
-- Writing clean C++  
+- C++ fundamentals  
 - Python scripting  
-- Intro to backend with Node.js  
-- Configuring Linux environments  
-- Emacs basics + keyboard workflow  
+- Node.js basics  
+- Linux customization  
+- Emacs workflow  
 
 ---
 
 ## 📦 Practice Projects
-> لسه صغيرة وببدأ فيها — بس خطوة بخطوة.
-
-- C++ mini tools  
-- Python CLI scripts  
-- Node basics (APIs / experiments)
+- Small C++ utilities  
+- Python CLI tools  
+- Node experiments  
+- Linux configs  
 
 ---
 
@@ -80,8 +90,8 @@ distros:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight&hide_border=true" height="150px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
@@ -89,7 +99,6 @@ distros:
 
 <div align="center">
   
-**Just a beginner… improving every day.**
+**Just a beginner… improving every day.**  
 
 </div>
-
