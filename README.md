@@ -1,171 +1,225 @@
 <div align="center">
 
-# 👋 Hey, I'm goharithm
+<!-- Header with Professional Code GIF -->
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" alt="Coding" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Linux+Enthusiast+%7C+Systems+Explorer;C%2B%2B+Developer+%7C+Python+Scripter;Building+Real+Projects+%7C+Learning+Every+Day;Terminal+Lover+%7C+Open+Source+Believer" alt="Typing Animation" />
+<div align="right" style="padding-top: 40px;">
 
-<img src="https://komarev.com/ghpvc/?username=goharithm&label=Profile+Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+# Hey, I'm **goharithm** 👋
+
+### Linux Enthusiast | C++ Developer | Systems Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=380&lines=Building+Real+Projects;Learning+Every+Day;Open+Source+Believer" alt="Typing Animation" />
+
+</div>
+
+<br clear="left"/>
+
+<img src="https://komarev.com/ghpvc/?username=goharithm&label=Profile+Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 **$ whoami**
 
-```yaml
-whoami:
-  name: "goharithm"
-  status: "Beginner Developer on a Mission"
-  location: "Egypt 🇪🇬"
-  current_focus:
-    - "Building a Banking System in C++"
-    - "Linux systems programming"
-    - "CLI tools & automation"
-  
-  environment:
-    terminal: "Kitty"
-    wm: "Hyprland"
-    editor: "Emacs (learning the dark arts)"
-    distros: ["Debian", "Arch", "NixOS", "Fedora"]
+```ruby
+goharithm@github:~$ cat about.yaml
 
-  philosophy: |
-    "Code is poetry. Linux is freedom.
-     Every bug is a lesson. Every project is progress."
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   Name        →  goharithm                              ║
+║   Location    →  Egypt 🇪🇬                               ║
+║   Status      →  Developer on a Mission                 ║
+║                                                          ║
+║   Focus       →  Banking System (C++)                   ║
+║                  Linux Systems Programming              ║
+║                  CLI Tools & Automation                 ║
+║                                                          ║
+║   Setup       →  Terminal: Kitty                        ║
+║                  WM: Hyprland                           ║
+║                  Editor: Emacs                          ║
+║                  Distros: Debian | Arch | NixOS         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+
+"Code is poetry. Linux is freedom. Every bug is a lesson."
 ```
 
+---
+
+## 🚀 **Featured Projects**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Banking System
+**Full-featured CLI banking application**
+
+- ✅ Account management
+- ✅ Secure transactions  
+- ✅ Data persistence
+- 🚧 Advanced features in progress
+
+`C++` `OOP` `File I/O` `Security`
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1b27?style=for-the-badge&logo=github)](https://github.com/goharithm/banking-system)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ dotfiles
+**Personal Linux configurations**
+
+- ⚡ Hyprland setup
+- 🎨 Kitty themes
+- 📝 Emacs config
+- 🔧 Shell scripts
+
+`Shell` `Config` `Automation`
+
+[![Repo](https://img.shields.io/badge/View_Repo-1a1b27?style=for-the-badge&logo=github)](https://github.com/goharithm/dotfiles)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.gif" width="200" />
+
+**💡 More projects coming soon!**
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ **Tech Arsenal**
 
 <div align="center">
 
-| 🏦 Project | 📝 Description | 🔧 Tech Stack | ⭐ Status |
-|-----------|---------------|---------------|-----------|
-| [**Banking System**](https://github.com/goharithm/banking-system) | Full-featured CLI banking application with accounts, transactions, and security | `C++` `OOP` `File I/O` | 🚧 In Progress |
-| [**dotfiles**](https://github.com/goharithm/dotfiles) | My personal Linux configuration files (Hyprland, Kitty, Emacs) | `Shell` `Config` | ✅ Active |
-| [**PyAutomate**](https://github.com/goharithm/pyautomate) | Collection of Python scripts for daily automation tasks | `Python` `CLI` | 💡 Planning |
+### Languages
+![C++](https://img.shields.io/badge/C++-7AA2F7?style=for-the-badge&logo=cplusplus&logoColor=1A1B26)
+![Python](https://img.shields.io/badge/Python-BB9AF7?style=for-the-badge&logo=python&logoColor=1A1B26)
+![JavaScript](https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1A1B26)
+![Bash](https://img.shields.io/badge/Bash-9ECE6A?style=for-the-badge&logo=gnu-bash&logoColor=1A1B26)
 
-</div>
-
-> **💡 Note:** More projects coming soon! I believe in learning by building real-world applications.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🐧 Systems & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
-
-### ⚡ Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-F7768E?style=for-the-badge&logo=linux&logoColor=1A1B26)
+![Arch](https://img.shields.io/badge/Arch-7DCFFF?style=for-the-badge&logo=arch-linux&logoColor=1A1B26)
+![NixOS](https://img.shields.io/badge/NixOS-7AA2F7?style=for-the-badge&logo=nixos&logoColor=1A1B26)
+![Git](https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=1A1B26)
+![Emacs](https://img.shields.io/badge/Emacs-BB9AF7?style=for-the-badge&logo=gnu-emacs&logoColor=1A1B26)
+![Docker](https://img.shields.io/badge/Docker-7DCFFF?style=for-the-badge&logo=docker&logoColor=1A1B26)
 
 </div>
 
 ---
 
-## 📚 Learning Journey
+## 📚 **Learning Path**
 
-<details>
-<summary><b>🎯 Current Focus (Click to expand)</b></summary>
+<details open>
+<summary><b>🎯 Current Focus</b></summary>
 
 <br>
 
-- 📘 **C++ Deep Dive**
-  - Object-Oriented Programming principles
-  - STL containers and algorithms
-  - File handling and data persistence
-  - Building the Banking System project
+<table>
+<tr><td>
 
-- 🐍 **Python Mastery**
-  - Automation scripts
-  - CLI tools development
-  - System administration tasks
+#### 💻 C++ Mastery
+- Object-Oriented Programming
+- STL & Algorithms
+- Memory Management
+- Building Banking System
 
-- 🐧 **Linux Internals**
-  - Understanding systemd
-  - Shell scripting & automation
-  - Window manager customization (Hyprland)
-  - Terminal workflow optimization
+</td><td>
 
-- 🎨 **Emacs Exploration**
-  - Org-mode for productivity
-  - Custom configurations
-  - Lisp basics
+#### 🐍 Python Development
+- CLI Tool Creation
+- Automation Scripts
+- System Administration
+
+</td></tr>
+<tr><td>
+
+#### 🐧 Linux Internals
+- Systemd Architecture
+- Shell Scripting
+- Hyprland Customization
+
+</td><td>
+
+#### 🎨 Emacs Workflow
+- Org-mode Productivity
+- Custom Elisp
+- Efficient Editing
+
+</td></tr>
+</table>
 
 </details>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goharithm&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&border_radius=10" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goharithm&theme=tokyonight&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7&border_radius=10" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B26&title_color=7AA2F7&text_color=C0CAF5&border_radius=10" width="420"/>
 
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goharithm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-</div>
-
----
-
-## 🎯 2025 Goals
-
-- [x] Master C++ fundamentals
-- [x] Build a complete Banking System
-- [ ] Complete 100 programming challenges
-- [ ] Contribute to 3 open-source projects
-- [ ] Create 10 useful CLI tools
-- [ ] Write technical blog posts
-- [ ] Master Linux systems programming
-
----
-
-## 💭 Philosophy
-
-<div align="center">
-
-> *"The best way to learn programming is to build real projects."*
-> 
-> *"Bugs are not failures—they're lessons in disguise."*
->
-> *"Open source is not just code; it's community."*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goharithm&theme=tokyo-night&hide_border=true&bg_color=1A1B26&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 **2025 Roadmap**
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+| Goal | Status | Progress |
+|------|--------|----------|
+| Master C++ Fundamentals | ✅ | ████████░░ 80% |
+| Complete Banking System | 🚧 | ██████░░░░ 60% |
+| 100 Coding Challenges | 📝 | ███░░░░░░░ 30% |
+| 3 Open Source Contributions | 📋 | ░░░░░░░░░░ 0% |
+| 10 CLI Tools | 💡 | ██░░░░░░░░ 20% |
+| Technical Blog Posts | 💭 | ░░░░░░░░░░ 0% |
+
+</div>
+
+---
+
+## 💭 **Philosophy**
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  "The best way to learn is to build."                    ║
+║                                                            ║
+║  "Bugs are not failures—they're lessons."                ║
+║                                                            ║
+║  "Open source is community, not just code."              ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📫 **Connect**
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/goharithm@gmail.com-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E)](mailto:goharithm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/goharithm-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7)](https://linkedin.com/in/goharithm)
+[![Twitter](https://img.shields.io/badge/@goharithm-1A1B26?style=for-the-badge&logo=twitter&logoColor=7DCFFF)](https://twitter.com/goharithm)
+[![Discord](https://img.shields.io/badge/goharithm-1A1B26?style=for-the-badge&logo=discord&logoColor=BB9AF7)](https://discord.com/users/goharithm)
 
 </div>
 
@@ -173,12 +227,12 @@ whoami:
 
 <div align="center">
 
-### 🐧 "Talk is cheap. Show me the code." – Linus Torvalds
+### **🐧 "Talk is cheap. Show me the code." – Linus Torvalds**
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-**⭐ If you like my work, consider giving my repos a star!**
+**⭐ Star my repos if you find them useful!**
 
-<sub>💙 Built with passion | Powered by curiosity | Fueled by coffee ☕</sub>
+<sub>💙 Built with passion | Powered by curiosity | Fueled by Linux ☕</sub>
 
 </div>
