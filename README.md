@@ -1,58 +1,79 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=27F4D2&center=true&vCenter=true&width=520&lines=Welcome+to+goharithm's+space;Learning+Linux+and+Programming;C%2B%2B+%7C+Python+%7C+Node.js;Step+by+Step+I'm+Improving" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=27F4D2&center=true&vCenter=true&width=520&lines=Welcome+to+goharithm's+space;Linux+Enthusiast+%7C+Beginner+Developer;C%2B%2B+%7C+Python+%7C+Node.js;Using+Kitty+Terminal+%7C+Hyperland;Step+by+Step+I'm+Improving" />
+
+<!-- Fun GIF -->
+<img src="https://raw.githubusercontent.com/egonelbre/gophers/refs/heads/master/.thumb/animation/gopher-dance-long-3x.gif" width="220"/>
 
 </div>
 
 ---
-
-## 🧑‍💻 About Me
-
-```
-┌[goharithm@github]-(~)
-└> whoami
- Beginner Linux user & aspiring backend developer
- Learning: C++, Python, Node.js
- Tools: Git, Emacs, Bash
- Distros: Debian, NixOS, Arch, Fedora
-```
-
-I’m still a beginner — focusing on fundamentals, improving slowly, and exploring the Linux world and backend basics.  
-I try to learn something small every day.
-
----
-
-## 📚 What I'm Learning Right Now
-
-- C++ basics & problem solving  
-- Python scripting  
-- Backend fundamentals with Node.js  
-- Improving Linux skills & CLI workflow  
-- Getting more comfortable with Emacs  
-
----
-
-## ⚙️ Technologies & Tools
 
 <div align="center">
 
-![skills](https://skillicons.dev/icons?i=linux,cpp,py,nodejs,git,emacs,bash,debian,arch,nixos,fedora&theme=dark)
+<!-- Fake Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=goharithm&label=Visitors&color=blue&style=flat-square" />
 
 </div>
 
 ---
 
-## 🧪 Small Practice Projects
+# 🧑‍💻 About Me
 
-> Nothing big yet — just simple exercises as I grow.
+```ansi
+[38;2;0;255;180m┌[[38;2;0;200;255mgoharithm@github[38;2;0;255;180m]-(~)
+└>[0m whoami
 
-- 🧩 **C++** → tiny CLI tools & algorithm practice  
-- 🐍 **Python** → basic scripts  
-- 🟢 **Node.js** → simple API experiments  
+[38;2;255;220;100m• Beginner Linux user & aspiring backend developer[0m
+[38;2;255;150;150m• Learning:[0m C++, Python, Node.js
+[38;2;150;255;150m• Terminal:[0m Kitty
+[38;2;150;200;255m• WM:[0m Hyperland (Hyprland)
+[38;2;255;150;255m• Distros:[0m Debian, NixOS, Arch, Fedora
+```
+
+I focus on improving slowly — learning the core skills first before jumping into big projects.
 
 ---
 
-## 📊 GitHub Stats
+# ⚙️ Technologies & Tools
+
+<div align="center">
+
+![skills](https://skillicons.dev/icons?i=linux,arch,nixos,debian,fedora,cpp,py,nodejs,git,emacs,bash,neovim&theme=dark)
+
+</div>
+
+<div align="center">
+
+![skills](https://skillicons.dev/icons?i=kitty&theme=dark)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hyprland_logo.svg/512px-Hyprland_logo.svg.png" width="60"/>
+
+</div>
+
+---
+
+# 📚 What I'm Learning
+
+- C++ fundamentals & problem solving  
+- Python scripting  
+- Backend essentials with Node.js  
+- Linux workflow (Arch + NixOS experiments)  
+- Improving in Emacs  
+- Getting comfortable with Hyperland + Kitty  
+
+---
+
+# 🧪 Practice Projects
+> Still beginner level — but practicing consistently.
+
+- 🧩 C++ → small utilities  
+- 🐍 Python → basic scripts  
+- 🟢 Node.js → tiny API experiments  
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -63,5 +84,6 @@ I try to learn something small every day.
 
 ---
 
-## 📝 Note
-My profile will grow as I grow — one step at a time.
+# 📝 Note
+Just learning… slowly improving… nothing fancy yet — but consistent.
+
