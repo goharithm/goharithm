@@ -6,44 +6,10 @@
 </div>
 
 ---
-
-# 👾 ASCII ID
-```
-   ____       _           _     _   _                 
-  / ___| ___ | |__   ___ | | __| | | |__   ___ _ __   
- | |  _ / _ \| '_ \ / _ \| |/ _` | | '_ \ / _ \ '__|  
- | |_| | (_) | | | | (_) | | (_| | | | | |  __/ |     
-  \____|\___/|_| |_|\___/|_|\__,_| |_| |_|\___|_|     
-```
-
----
-
-# 🧑‍💻 whoami (Animated Terminal)
-
-![Terminal](https://asciinema.org/a/596199.svg)
-
-> *This is an animated terminal preview — no code, just the vibes.*
-
-```
-┌[goharithm@github]-(~)
-└> whoami
- Beginner Linux user & aspiring backend dev
- Learning: C++, Python, Node.js
+s
  Tools: Git, Emacs, Bash
  Distros tried: Debian, NixOS, Arch, Fedora
 ```
-
----
-
-# ⚙️ Tech & Tools
-
-<div align="center">
-
-![skills](https://skillicons.dev/icons?i=linux,cpp,py,nodejs,git,emacs,bash,debian,arch,nixos,fedora&theme=dark)
-
-</div>
-
----
 
 # 📚 Learning Roadmap (2025)
 
