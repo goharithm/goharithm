@@ -113,61 +113,42 @@ console.log(`${Goharithm.role} on a journey of continuous learning! 🚀`);
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏦 Banking System
 **My first real C++ project - Learning by building**
 
-```cpp
-What I'm building:
-├── 👤 Account Management
-├── 💰 Transaction System
-├── 💾 File Persistence
-├── 🔐 Basic Authentication
-└── 📊 Simple Reports
-```
+Learning to implement:
+- 👤 Account Management
+- 💰 Transaction System  
+- 💾 File Persistence
+- 🔐 Basic Authentication
+- 📊 Simple Reports
 
-**Tech Stack:**
-- C++17
-- Object-Oriented Programming
-- File I/O
-- STL Containers
+**Tech:** `C++17` • `OOP` • `File I/O` • `STL`
 
+[![View Repo](https://img.shields.io/badge/View_Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/banking-system)
 ![Status](https://img.shields.io/badge/Status-Learning-yellow?style=flat-square&color=e0af68)
-![Learning](https://img.shields.io/badge/First_Project-🚀-blue?style=flat-square&color=7aa2f7)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### ⚙️ dotfiles
+### ⚙️ dotfiles  
 **My Linux configuration journey**
 
-```bash
-My Setup:
-├── 🎨 Hyprland Config
-├── 🖥️  Kitty Terminal
-├── 📝 Emacs Settings
-├── 🐚 Zsh + Starship
-├── 🎭 Tokyo Night Theme
-└── 🔧 Custom Scripts
-```
+Current setup includes:
+- 🎨 Hyprland Config
+- 🖥️  Kitty Terminal
+- 📝 Emacs Settings
+- 🐚 Zsh + Starship
+- 🎭 Tokyo Night Theme
+- 🔧 Custom Scripts
 
-**Technologies:**
-- Shell Scripts
-- Lua (Hyprland)
-- TOML (Kitty)
-- Elisp (Emacs)
+**Tech:** `Shell` • `Lua` • `TOML` • `Elisp`
 
+[![View Repo](https://img.shields.io/badge/View_Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/dotfiles)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&color=9ece6a)
-![Linux](https://img.shields.io/badge/Arch-Daily_Driver-blue?style=flat-square&color=7dcfff)
 
-</td>
-</tr>
-</table>
+---
 
-> 💡 **Note:** These are learning projects! I'm documenting my journey as a beginner developer.
+> 💡 **Note:** These are learning projects! Documenting my journey as a beginner developer.
 
 </div>
 
