@@ -1,59 +1,58 @@
 <div align="center">
 
-<!-- Typing Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=15F4EE&center=true&vCenter=true&width=600&lines=Welcome+to+goharithm's+Terminal...;Learning+Linux+and+Programming;C%2B%2B+%7C+Python+%7C+Node.js;Step+by+Step+I'm+Improving" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=27F4D2&center=true&vCenter=true&width=520&lines=Welcome+to+goharithm's+space;Learning+Linux+and+Programming;C%2B%2B+%7C+Python+%7C+Node.js;Step+by+Step+I'm+Improving" />
 
 </div>
 
 ---
-s
+
+## 🧑‍💻 About Me
+
+```
+┌[goharithm@github]-(~)
+└> whoami
+ Beginner Linux user & aspiring backend developer
+ Learning: C++, Python, Node.js
  Tools: Git, Emacs, Bash
- Distros tried: Debian, NixOS, Arch, Fedora
+ Distros: Debian, NixOS, Arch, Fedora
 ```
 
-# 📚 Learning Roadmap (2025)
-
-### 🔹 **1. Linux Mastery (Basics → Intermediate)**
-- File system, permissions  
-- Bash scripting  
-- Package management (APT, Pacman, DNF, Nix)  
-- System tools & troubleshooting  
-
-### 🔹 **2. C++ Fundamentals**
-- Variables, loops, functions  
-- Pointers & memory basics  
-- Simple projects & CLI tools  
-
-### 🔹 **3. Python Scripting**
-- Automations  
-- Small utilities  
-- Problem solving  
-
-### 🔹 **4. Node.js Basics**
-- Building simple APIs  
-- Understanding async programming  
-- Using Express  
-
-### 🔹 **5. Tools & Environment**
-- Emacs basics (editing, buffers, windows)  
-- Git workflow  
-- Better CLI workflow  
-
-> *Slow steps — consistent progress.*
+I’m still a beginner — focusing on fundamentals, improving slowly, and exploring the Linux world and backend basics.  
+I try to learn something small every day.
 
 ---
 
-# 🧪 Practice Projects (Growing Slowly)
+## 📚 What I'm Learning Right Now
 
-- 🧩 **C++** — small exercises & tiny CLI tools  
-- 🐍 **Python** — scripts to practice logic  
-- 🟢 **Node.js** — minimal backend experiments  
-
-> عندما تتقدم نضيف مشاريع حقيقية هنا.
+- C++ basics & problem solving  
+- Python scripting  
+- Backend fundamentals with Node.js  
+- Improving Linux skills & CLI workflow  
+- Getting more comfortable with Emacs  
 
 ---
 
-# 📊 GitHub Stats
+## ⚙️ Technologies & Tools
+
+<div align="center">
+
+![skills](https://skillicons.dev/icons?i=linux,cpp,py,nodejs,git,emacs,bash,debian,arch,nixos,fedora&theme=dark)
+
+</div>
+
+---
+
+## 🧪 Small Practice Projects
+
+> Nothing big yet — just simple exercises as I grow.
+
+- 🧩 **C++** → tiny CLI tools & algorithm practice  
+- 🐍 **Python** → basic scripts  
+- 🟢 **Node.js** → simple API experiments  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -64,6 +63,5 @@ s
 
 ---
 
-# 📝 Note
-I'm still learning — nothing fancy, but every day I try to get better.
-
+## 📝 Note
+My profile will grow as I grow — one step at a time.
