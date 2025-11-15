@@ -9,7 +9,8 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=goharithm&label=Profile+Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/goharithm?label=Followers&style=for-the-badge&color=7aa2f7" alt="followers" />
+  <img src="https://img.shields.io/github/followers/goharithm?label=Followers&style=for-the-badge&color=bb9af7&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/goharithm?label=Total+Stars&style=for-the-badge&color=f7768e&logo=github" alt="stars" />
 </p>
 
 </div>
@@ -19,47 +20,72 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> About Me
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" align="center">
 
 ```javascript
 const Goharithm = {
     from: "Egypt 🇪🇬",
-    status: "Beginner Developer",
+    role: "Beginner Developer",
     learning: ["C++ Basics", "Python"],
+    currentProject: "Banking System in C++",
     
-    currentProject: {
-        name: "Banking System",
-        language: "C++",
-        stage: "Learning by building"
+    passionateAbout: [
+        "Linux customization & Hyprland",
+        "Terminal workflows & productivity",
+        "Building real projects to learn",
+        "Open source philosophy"
+    ],
+    
+    dailySetup: {
+        os: "Arch Linux",
+        wm: "Hyprland",
+        terminal: "Kitty",
+        editor: "Emacs (learning!)",
+        theme: "Tokyo Night 🌃"
     },
     
-    interests: [
-        "Linux customization",
-        "Terminal workflows",
-        "Systems programming"
-    ]
+    motto: "Learn by building. Grow by sharing. Code with passion."
 };
+
+console.log(`${Goharithm.role} on a journey of continuous learning! 🚀`);
 ```
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-
-### 🎯 Current Journey
-
-- 📚 Learning **C++ fundamentals**
-- 🐍 Exploring **Python scripting**
-- 🏦 Building a **Banking System** (first real project!)
-- 🐧 Daily driver: **Arch Linux + Hyprland**
-- 💻 Setup: **Kitty terminal** + **Emacs**
-- 🎨 Theme: **Tokyo Night everywhere**
 
 </td>
 </tr>
 </table>
+
+### 🎯 Current Focus
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/c-plus-plus-logo.png" width="64"/>
+<br><b>C++ Fundamentals</b>
+<br><sub>OOP & File I/O</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/python.png" width="64"/>
+<br><b>Python Scripting</b>
+<br><sub>Automation & CLI</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/linux.png" width="64"/>
+<br><b>Linux Daily User</b>
+<br><sub>Arch + Hyprland</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/bank-building.png" width="64"/>
+<br><b>Banking System</b>
+<br><sub>First Real Project</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
@@ -71,48 +97,72 @@ const Goharithm = {
 
 <div align="center">
 
+<!-- Project Cards with Beautiful Theme -->
+<a href="https://github.com/goharithm/banking-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goharithm&repo=banking-system&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+</a>
+
+<a href="https://github.com/goharithm/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goharithm&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+</a>
+
+<br><br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🏦 Banking System
-[![Repo](https://img.shields.io/badge/View_Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/banking-system)
+**My first real C++ project - Learning by building**
 
-**My first real C++ project**
+```cpp
+What I'm building:
+├── 👤 Account Management
+├── 💰 Transaction System
+├── 💾 File Persistence
+├── 🔐 Basic Authentication
+└── 📊 Simple Reports
+```
 
-Learning to build:
-- Account management
-- Basic transactions
-- File handling
-- User authentication
+**Tech Stack:**
+- C++17
+- Object-Oriented Programming
+- File I/O
+- STL Containers
 
-**Learning:** `C++` `OOP` `File I/O`
-
-![Status](https://img.shields.io/badge/Status-Learning-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Learning-yellow?style=flat-square&color=e0af68)
+![Learning](https://img.shields.io/badge/First_Project-🚀-blue?style=flat-square&color=7aa2f7)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ dotfiles
-[![Repo](https://img.shields.io/badge/View_Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/dotfiles)
+**My Linux configuration journey**
 
-**My Linux configuration files**
+```bash
+My Setup:
+├── 🎨 Hyprland Config
+├── 🖥️  Kitty Terminal
+├── 📝 Emacs Settings
+├── 🐚 Zsh + Starship
+├── 🎭 Tokyo Night Theme
+└── 🔧 Custom Scripts
+```
 
-Includes:
-- Hyprland setup
-- Kitty config
-- Emacs settings
-- Shell customization
+**Technologies:**
+- Shell Scripts
+- Lua (Hyprland)
+- TOML (Kitty)
+- Elisp (Emacs)
 
-**Stack:** `Shell` `Config files`
-
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square&color=9ece6a)
+![Linux](https://img.shields.io/badge/Arch-Daily_Driver-blue?style=flat-square&color=7dcfff)
 
 </td>
 </tr>
 </table>
 
-> 💡 **Note:** I'm just starting out. These projects help me learn by doing!
+> 💡 **Note:** These are learning projects! I'm documenting my journey as a beginner developer.
 
 </div>
 
@@ -122,36 +172,62 @@ Includes:
 
 <div align="center">
 
-### 💻 Languages I'm Learning
+<details open>
+<summary><b>🔥 Technologies I'm Learning & Using</b></summary>
+<br>
+
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,python,bash,js&theme=dark" />
 </p>
 
-### 🐧 Systems & Tools
+### 🐧 Operating Systems & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,git,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,nixos,ubuntu&theme=dark" />
 </p>
 
-### 🛠️ Daily Setup
+### 🛠️ Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=emacs,vim,vscode,cmake&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,cmake,vscode,vim&theme=dark" />
 </p>
 
-**My Environment:**
-- **OS:** Arch Linux (also tried Debian, NixOS, Fedora)
-- **WM:** Hyprland
-- **Terminal:** Kitty
-- **Editor:** Emacs (still learning!)
-- **Theme:** Tokyo Night
+### ⚡ Daily Environment
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=arch&theme=dark" width="48"/><br>
+<sub><b>Arch Linux</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=emacs&theme=dark" width="48"/><br>
+<sub><b>Emacs</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://avatars.githubusercontent.com/u/67168647?s=96&v=4" width="48"/><br>
+<sub><b>Kitty</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/icons/hyprland-logo-circle.svg" width="48"/><br>
+<sub><b>Hyprland</b></sub>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/enkia/tokyo-night-vscode-theme/master/icon.png" width="48"/><br>
+<sub><b>Tokyo Night</b></sub>
+</td>
+</tr>
+</table>
+
+</details>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -159,27 +235,32 @@ Includes:
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&border_radius=10" />
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goharithm&theme=tokyonight&hide_border=true&background=1a1b27&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goharithm&theme=tokyonight&hide_border=true&background=1a1b27&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7&border_radius=10" />
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&text_color=C0CAF5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&text_color=C0CAF5&border_radius=10" />
+
+<br><br>
+
+<!-- Activity Graph with Theme -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goharithm&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true&radius=10" width="100%"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 📚 Learning Path
+## 📚 Learning Journey
 
 <details open>
-<summary><b>🎯 What I'm Focusing On</b></summary>
+<summary><b>🎯 What I'm Focusing On Right Now</b></summary>
 
 <br>
 
@@ -187,75 +268,92 @@ Includes:
 <tr>
 <td width="50%">
 
-#### 💻 C++ Basics
-- ✅ Syntax & fundamentals
+#### 💻 C++ Learning Path
+- ✅ Basic syntax & variables
+- ✅ Functions & control flow
 - 🔄 Object-oriented programming
-- 📋 STL basics
-- 📋 File handling
-- 📋 Project: Banking System
+- 🔄 File handling & streams
+- 📋 STL basics (vectors, maps)
+- 📋 Memory management
+- 📋 Building Banking System
+
+**Status:** Learning daily through practice
 
 </td>
 <td width="50%">
 
-#### 🐍 Python Scripting
-- ✅ Basic syntax
+#### 🐍 Python Exploration
+- ✅ Python basics & syntax
 - 🔄 File operations
-- 📋 CLI tools
+- 🔄 Working with modules
+- 📋 CLI tool development
 - 📋 Automation scripts
-- 📋 Learning libraries
+- 📋 Data handling
+
+**Status:** Exploring through small projects
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### 🐧 Linux Skills
-- ✅ Daily Linux user
-- ✅ Arch Linux setup
+#### 🐧 Linux Experience
+- ✅ Daily Arch Linux user
 - ✅ Hyprland configuration
-- 🔄 Shell scripting
+- ✅ Kitty terminal setup
+- 🔄 Shell scripting basics
 - 📋 System administration
+- 📋 Package management
+
+**Environment:** Arch + Hyprland + Tokyo Night
 
 </td>
 <td width="50%">
 
-#### 🎨 Development Tools
-- ✅ Git basics
-- ✅ Terminal workflow
+#### 🔧 Development Skills
+- ✅ Git basics (commit, push, pull)
+- ✅ GitHub repositories
 - 🔄 Emacs learning
+- 🔄 Terminal productivity
 - 📋 Docker basics
-- 📋 Build tools
+- 📋 Build systems (CMake)
+
+**Goal:** Improve workflow efficiency
 
 </td>
 </tr>
 </table>
 
-**Legend:** ✅ Learning | 🔄 Practicing | 📋 Next steps
+<div align="center">
+
+**Legend:** ✅ Learning | 🔄 Practicing | 📋 Next Steps
+
+</div>
 
 </details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 🎯 My Goals for 2025
+## 🎯 My 2025 Goals
 
 <div align="center">
 
-| Goal | Status | Notes |
-|------|--------|-------|
-| 📚 Finish Banking System | 🔄 Working on it | My first real C++ project |
-| 💻 Master C++ basics | 🔄 Learning daily | OOP, STL, file handling |
-| 🐍 Learn Python fundamentals | 🔄 In progress | Scripting and automation |
-| 🐧 Improve Linux skills | ✅ Ongoing | Daily driver experience |
-| 📝 Practice coding regularly | 🔄 Trying | Building good habits |
-| 🌱 Contribute to open source | 📋 Future goal | When I'm ready |
+| Goal | Status | Progress | Notes |
+|------|--------|----------|-------|
+| 🏦 Complete Banking System | 🔄 Working | ![](https://img.shields.io/badge/Progress-40%25-7aa2f7?style=flat-square) | My first real C++ project |
+| 💻 Master C++ Basics | 🔄 Learning | ![](https://img.shields.io/badge/Progress-35%25-bb9af7?style=flat-square) | OOP, STL, file I/O |
+| 🐍 Learn Python Fundamentals | 🔄 Active | ![](https://img.shields.io/badge/Progress-25%25-9ece6a?style=flat-square) | Scripting & automation |
+| 🐧 Improve Linux Skills | ✅ Daily | ![](https://img.shields.io/badge/Progress-60%25-7dcfff?style=flat-square) | Arch daily driver |
+| 📝 Code Regularly | 🔄 Building habit | ![](https://img.shields.io/badge/Progress-30%25-e0af68?style=flat-square) | Consistency is key |
+| 🌱 First Open Source PR | 📋 Future | ![](https://img.shields.io/badge/Progress-0%25-f7768e?style=flat-square) | When I'm ready |
 
-**Legend:** ✅ Good progress | 🔄 Working on it | 📋 Planned
+**Legend:** ✅ Good progress | 🔄 Working on it | 📋 Planned for later
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 💭 My Approach
+## 💭 My Philosophy
 
 <div align="center">
 
@@ -267,7 +365,7 @@ Includes:
 <br><br>
 <b>Always Learning</b>
 <br>
-<sub>Beginner mindset</sub>
+<sub>Embrace the beginner mindset</sub>
 <br><br>
 </td>
 <td align="center" width="33%">
@@ -276,7 +374,7 @@ Includes:
 <br><br>
 <b>Build to Learn</b>
 <br>
-<sub>Projects over theory</sub>
+<sub>Real projects over theory</sub>
 <br><br>
 </td>
 <td align="center" width="33%">
@@ -293,19 +391,19 @@ Includes:
 
 <br>
 
-### ✨ Simple Philosophy
+### ✨ What Drives Me
 
 <sub>
-*"I'm learning by building real projects."*<br>
-*"Every bug teaches me something new."*<br>
-*"Linux is freedom. Open source is community."*
+*"I'm learning by building real projects, one line of code at a time."*<br>
+*"Every bug is a lesson. Every challenge is growth."*<br>
+*"Linux is freedom. Open source is community. Code is craft."*
 </sub>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -330,7 +428,7 @@ Includes:
 
 <br>
 
-**💡 I'm a beginner developer - always open to learning and advice!**
+**💡 I'm a beginner developer learning in public - feedback and guidance always welcome!**
 
 <br>
 
