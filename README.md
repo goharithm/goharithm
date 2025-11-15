@@ -4,21 +4,20 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Goharithm&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=700&lines=Linux+Enthusiast+%7C+Systems+Explorer+%F0%9F%90%A7;C%2B%2B+Developer+%7C+Python+Scripter+%F0%9F%92%BB;Building+Real+Projects+%7C+Learning+Daily+%F0%9F%9A%80;Terminal+Lover+%7C+Open+Source+Believer+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&repeat=true&width=600&lines=Learning+C%2B%2B+%7C+Exploring+Python+%F0%9F%93%9A;Linux+User+%7C+Hyprland+Enthusiast+%F0%9F%90%A7;Building+My+First+Real+Project+%F0%9F%9A%80;Beginner+Developer+%7C+Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=goharithm&label=Profile+Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/goharithm?label=Followers&style=for-the-badge&color=7aa2f7" alt="followers" />
-  <img src="https://img.shields.io/github/stars/goharithm?label=Stars&style=for-the-badge&color=bb9af7" alt="stars" />
 </p>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Smooth Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> About Me
 
 <table>
 <tr>
@@ -26,21 +25,21 @@
 
 ```javascript
 const Goharithm = {
-    location: "Egypt 🇪🇬",
-    role: "Systems Developer",
-    currentProject: "Banking System (C++)",
+    from: "Egypt 🇪🇬",
+    status: "Beginner Developer",
+    learning: ["C++ Basics", "Python"],
     
-    workingOn: [
-        "Building production-grade applications",
-        "Exploring Linux kernel internals",
-        "Crafting elegant CLI tools"
-    ],
+    currentProject: {
+        name: "Banking System",
+        language: "C++",
+        stage: "Learning by building"
+    },
     
-    techStack: {
-        languages: ["C++", "Python", "JavaScript", "Bash"],
-        systems: ["Arch Linux", "Debian", "NixOS"],
-        tools: ["Git", "Docker", "Emacs", "Hyprland"]
-    }
+    interests: [
+        "Linux customization",
+        "Terminal workflows",
+        "Systems programming"
+    ]
 };
 ```
 
@@ -49,13 +48,14 @@ const Goharithm = {
 
 <br>
 
-### 🎯 Quick Facts
+### 🎯 Current Journey
 
-- 🔭 Building a **Banking System** in C++
-- 🌱 Learning **Rust** & **Systems Programming**
-- 💻 Daily driver: **Arch + Hyprland + Kitty**
-- 🎨 Theme enthusiast: **Tokyo Night**
-- ⚡ Philosophy: *Build. Learn. Share.*
+- 📚 Learning **C++ fundamentals**
+- 🐍 Exploring **Python scripting**
+- 🏦 Building a **Banking System** (first real project!)
+- 🐧 Daily driver: **Arch Linux + Hyprland**
+- 💻 Setup: **Kitty terminal** + **Emacs**
+- 🎨 Theme: **Tokyo Night everywhere**
 
 </td>
 </tr>
@@ -65,9 +65,9 @@ const Goharithm = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Featured Projects
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> My Projects
 
 <div align="center">
 
@@ -76,299 +76,216 @@ const Goharithm = {
 <td width="50%" valign="top">
 
 ### 🏦 Banking System
-[![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/banking-system)
+[![Repo](https://img.shields.io/badge/View_Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/banking-system)
 
-**Production-ready CLI banking application**
+**My first real C++ project**
 
-```cpp
-Features:
-├── 👤 Account Management
-├── 💰 Secure Transactions
-├── 💾 Data Persistence
-├── 🔐 Authentication System
-├── 📊 Transaction History
-└── 🛡️ Input Validation
-```
+Learning to build:
+- Account management
+- Basic transactions
+- File handling
+- User authentication
 
-**Tech:** `C++17` `OOP` `STL` `File I/O` `Encryption`
+**Learning:** `C++` `OOP` `File I/O`
 
-![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square)
-![Progress](https://img.shields.io/badge/Progress-65%25-success?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Learning-yellow?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ dotfiles
-[![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/dotfiles)
+[![Repo](https://img.shields.io/badge/View_Repository-1a1b27?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/dotfiles)
 
-**Meticulously crafted Linux configs**
+**My Linux configuration files**
 
-```bash
-Configurations:
-├── 🎨 Hyprland (Wayland WM)
-├── 🖥️  Kitty Terminal
-├── 📝 Emacs + Evil Mode
-├── 🐚 Zsh + Starship
-├── 🎭 Tokyo Night Theme
-└── 🔧 Custom Scripts
-```
+Includes:
+- Hyprland setup
+- Kitty config
+- Emacs settings
+- Shell customization
 
-**Tech:** `Shell` `Lua` `Elisp` `TOML`
+**Stack:** `Shell` `Config files`
 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
-![Stars](https://img.shields.io/github/stars/goharithm/dotfiles?style=flat-square&color=yellow)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🐍 PyAutomate
-[![Repo](https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm/pyautomate)
-
-**Automation toolkit for daily tasks**
-
-```python
-Tools:
-├── 📁 File Organizer
-├── 🖼️  Batch Image Processor
-├── 📊 System Monitor
-├── 🔄 Backup Automator
-└── 🌐 Web Scraper
-```
-
-**Tech:** `Python 3.11` `Click` `Rich` `Asyncio`
-
-![Status](https://img.shields.io/badge/Status-Planning-blue?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Future Projects
-[![Roadmap](https://img.shields.io/badge/View_Roadmap-0D1117?style=for-the-badge&logo=github&logoColor=7AA2F7)](https://github.com/goharithm)
-
-**Ideas in the pipeline**
-
-```rust
-Upcoming:
-├── 🦀 CLI Task Manager (Rust)
-├── 🔍 Code Search Tool
-├── 📦 Package Manager Wrapper
-├── 🎮 Terminal Game Engine
-└── 🌐 Static Site Generator
-```
-
-**Exploring:** `Rust` `Go` `WebAssembly`
-
-![Ideas](https://img.shields.io/badge/Ideas-Infinite-purple?style=flat-square)
 
 </td>
 </tr>
 </table>
 
+> 💡 **Note:** I'm just starting out. These projects help me learn by doing!
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="28px"> Tech Arsenal
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px"> Tech Stack
 
 <div align="center">
 
+### 💻 Languages I'm Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,bash,js&theme=dark" />
+</p>
+
+### 🐧 Systems & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,git,github,docker&theme=dark" />
+</p>
+
+### 🛠️ Daily Setup
+
+<p>
+<img src="https://skillicons.dev/icons?i=emacs,vim,vscode,cmake&theme=dark" />
+</p>
+
+**My Environment:**
+- **OS:** Arch Linux (also tried Debian, NixOS, Fedora)
+- **WM:** Hyprland
+- **Terminal:** Kitty
+- **Editor:** Emacs (still learning!)
+- **Theme:** Tokyo Night
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goharithm&theme=tokyonight&hide_border=true&background=1a1b27&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&text_color=C0CAF5" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## 📚 Learning Path
+
 <details open>
-<summary><b>🔥 Click to expand/collapse</b></summary>
+<summary><b>🎯 What I'm Focusing On</b></summary>
+
 <br>
 
-### Programming Languages
+<table>
+<tr>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,bash,rust,go&theme=dark" />
-</p>
+#### 💻 C++ Basics
+- ✅ Syntax & fundamentals
+- 🔄 Object-oriented programming
+- 📋 STL basics
+- 📋 File handling
+- 📋 Project: Banking System
 
-### Systems & Platforms
+</td>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,nixos,ubuntu,docker&theme=dark" />
-</p>
+#### 🐍 Python Scripting
+- ✅ Basic syntax
+- 🔄 File operations
+- 📋 CLI tools
+- 📋 Automation scripts
+- 📋 Learning libraries
 
-### Development Tools
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vim,emacs,neovim&theme=dark" />
-</p>
+#### 🐧 Linux Skills
+- ✅ Daily Linux user
+- ✅ Arch Linux setup
+- ✅ Hyprland configuration
+- 🔄 Shell scripting
+- 📋 System administration
 
-### Frameworks & Libraries
+</td>
+<td width="50%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,react,qt,cmake,npm,markdown&theme=dark" />
-</p>
+#### 🎨 Development Tools
+- ✅ Git basics
+- ✅ Terminal workflow
+- 🔄 Emacs learning
+- 📋 Docker basics
+- 📋 Build tools
+
+</td>
+</tr>
+</table>
+
+**Legend:** ✅ Learning | 🔄 Practicing | 📋 Next steps
 
 </details>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+## 🎯 My Goals for 2025
+
+<div align="center">
+
+| Goal | Status | Notes |
+|------|--------|-------|
+| 📚 Finish Banking System | 🔄 Working on it | My first real C++ project |
+| 💻 Master C++ basics | 🔄 Learning daily | OOP, STL, file handling |
+| 🐍 Learn Python fundamentals | 🔄 In progress | Scripting and automation |
+| 🐧 Improve Linux skills | ✅ Ongoing | Daily driver experience |
+| 📝 Practice coding regularly | 🔄 Trying | Building good habits |
+| 🌱 Contribute to open source | 📋 Future goal | When I'm ready |
+
+**Legend:** ✅ Good progress | 🔄 Working on it | 📋 Planned
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 📈 GitHub Analytics
+## 💭 My Approach
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=goharithm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=C9D1D9&rank_icon=github" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goharithm&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goharithm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C9D1D9&langs_count=8&hide=html,css" />
-
+<td align="center" width="33%">
+<br>
+<img src="https://img.icons8.com/fluency/96/learning.png" width="56"/>
 <br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goharithm&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=7AA2F7&point=BB9AF7&area=true" />
-
-### 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=goharithm&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📚 Learning Roadmap
-
-<details open>
-<summary><b>🎯 Current Learning Path</b></summary>
+<b>Always Learning</b>
 <br>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 💻 C++ Mastery
-- ✅ Core Syntax & OOP
-- ✅ STL & Algorithms  
-- 🔄 Advanced Templates
-- 🔄 Memory Management
-- 📋 Concurrency & Threading
-- 📋 Design Patterns
-
-**Project:** Banking System
-
-</td>
-<td width="50%">
-
-#### 🐍 Python Engineering
-- ✅ Core Python & Syntax
-- ✅ CLI Development
-- 🔄 Async Programming
-- 📋 Testing & CI/CD
-- 📋 Package Publishing
-- 📋 Performance Optimization
-
-**Focus:** Automation Tools
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🐧 Linux Deep Dive
-- ✅ Shell Scripting
-- ✅ System Configuration
-- 🔄 Systemd & Services
-- 🔄 Kernel Basics
-- 📋 Network Programming
-- 📋 Security & Hardening
-
-**Environment:** Arch + Hyprland
-
-</td>
-<td width="50%">
-
-#### 🦀 Exploring Rust
-- 🔄 Ownership & Borrowing
-- 🔄 Cargo & Crates
-- 📋 Systems Programming
-- 📋 CLI Tools in Rust
-- 📋 WebAssembly
-- 📋 Async Rust
-
-**Goal:** Build Production Tools
-
-</td>
-</tr>
-</table>
-
-**Legend:** ✅ Completed | 🔄 In Progress | 📋 Planned
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 2025 Milestones
-
-<div align="center">
-
-| Milestone | Status | Progress | ETA |
-|-----------|--------|----------|-----|
-| 🏦 Complete Banking System | 🔄 In Progress | ![65%](https://progress-bar.xyz/65/?title=Done&width=120&color=7aa2f7) | Q1 2025 |
-| 💯 100 LeetCode Problems | 🔄 Active | ![32%](https://progress-bar.xyz/32/?title=Done&width=120&color=bb9af7) | Q2 2025 |
-| 🌟 3 Open Source Contributions | 📋 Planned | ![0%](https://progress-bar.xyz/0/?title=Done&width=120&color=f7768e) | Q2 2025 |
-| 🐍 10 Python CLI Tools | 🔄 Active | ![20%](https://progress-bar.xyz/20/?title=Done&width=120&color=9ece6a) | Q3 2025 |
-| 📝 Technical Blog Series | 📋 Planned | ![0%](https://progress-bar.xyz/0/?title=Done&width=120&color=e0af68) | Q3 2025 |
-| 🦀 Learn Rust Fundamentals | 🔄 Active | ![15%](https://progress-bar.xyz/15/?title=Done&width=120&color=7dcfff) | Q4 2025 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💎 Core Values
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br>
-<img src="https://img.icons8.com/fluency/96/code.png" width="64"/>
-<br><br>
-<b>Clean Code</b>
-<br>
-<sub>Readable & Maintainable</sub>
+<sub>Beginner mindset</sub>
 <br><br>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <br>
-<img src="https://img.icons8.com/fluency/96/learning.png" width="64"/>
+<img src="https://img.icons8.com/fluency/96/code.png" width="56"/>
 <br><br>
-<b>Continuous Learning</b>
+<b>Build to Learn</b>
 <br>
-<sub>Always Growing</sub>
-<br><br>
-</td>
-<td align="center" width="25%">
-<br>
-<img src="https://img.icons8.com/fluency/96/collaboration.png" width="64"/>
-<br><br>
-<b>Open Source</b>
-<br>
-<sub>Community First</sub>
+<sub>Projects over theory</sub>
 <br><br>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <br>
-<img src="https://img.icons8.com/fluency/96/settings.png" width="64"/>
+<img src="https://img.icons8.com/fluency/96/collaboration.png" width="56"/>
 <br><br>
-<b>Build Real</b>
+<b>Share & Grow</b>
 <br>
-<sub>Projects That Matter</sub>
+<sub>Open to feedback</sub>
 <br><br>
 </td>
 </tr>
@@ -376,28 +293,29 @@ Upcoming:
 
 <br>
 
-### 💭 Philosophy
+### ✨ Simple Philosophy
 
 <sub>
-"Code is poetry. Linux is freedom. Bugs are lessons."<br>
-"Build real projects. Learn by doing. Share with the community."
+*"I'm learning by building real projects."*<br>
+*"Every bug teaches me something new."*<br>
+*"Linux is freedom. Open source is community."*
 </sub>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <div align="center">
 
 <br>
 
 <a href="mailto:goharithm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-goharithm@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-goharithm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/goharithm">
-  <img src="https://img.shields.io/badge/LinkedIn-Goharithm-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Goharithm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/goharithm">
   <img src="https://img.shields.io/badge/Twitter-@Goharithm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -408,17 +326,17 @@ Upcoming:
 
 <br><br>
 
-### 🐧 *"Talk is cheap. Show me the code."* – Linus Torvalds
+### 🌱 *"The journey of a thousand miles begins with a single step."*
 
 <br>
 
-**⭐ Star my repos if you find them useful!**
+**💡 I'm a beginner developer - always open to learning and advice!**
 
 <br>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <div align="center">
 
@@ -434,6 +352,6 @@ Upcoming:
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
-<sub>💙 Crafted with passion | ⚡ Powered by curiosity | 🐧 Fueled by Linux</sub>
+<sub>💙 Learning with passion | ⚡ Growing every day | 🐧 Powered by Linux</sub>
 
 </div>
