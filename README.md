@@ -63,24 +63,40 @@ console.log(`${Goharithm.role} on a journey of continuous learning! 🚀`);
 <table>
 <tr>
 <td align="center" width="25%">
+<br>
 <img src="https://img.icons8.com/fluency/96/c-plus-plus-logo.png" width="64"/>
-<br><b>C++ Fundamentals</b>
-<br><sub>OOP & File I/O</sub>
+<br><br>
+<b>C++ Fundamentals</b>
+<br>
+<sub>OOP & File I/O</sub>
+<br><br>
 </td>
 <td align="center" width="25%">
+<br>
 <img src="https://img.icons8.com/fluency/96/python.png" width="64"/>
-<br><b>Python Scripting</b>
-<br><sub>Automation & CLI</sub>
+<br><br>
+<b>Python Scripting</b>
+<br>
+<sub>Automation & CLI</sub>
+<br><br>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/linux.png" width="64"/>
-<br><b>Linux Daily User</b>
-<br><sub>Arch + Hyprland</sub>
+<br>
+<span style="font-size: 64px;">🐧</span>
+<br><br>
+<b>Arch + Hyprland</b>
+<br>
+<sub>Daily Linux Setup</sub>
+<br><br>
 </td>
 <td align="center" width="25%">
+<br>
 <img src="https://img.icons8.com/fluency/96/bank-building.png" width="64"/>
-<br><b>Banking System</b>
-<br><sub>First Real Project</sub>
+<br><br>
+<b>Banking System</b>
+<br>
+<sub>First Real Project</sub>
+<br><br>
 </td>
 </tr>
 </table>
@@ -173,42 +189,28 @@ My Setup:
 
 ### 🐧 Operating Systems & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,nixos,fedora&theme=dark" />
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 ### 🛠️ Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,cmake,vscode,vim&theme=dark" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ### ⚡ Daily Environment
 
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/archlinux.svg" width="48" style="filter: invert(47%) sepia(96%) saturate(2239%) hue-rotate(184deg) brightness(99%) contrast(101%);"/><br>
-<sub><b>Arch Linux</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="48"/><br>
-<sub><b>Emacs</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" width="48"/><br>
-<sub><b>Kitty</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/hyprland.svg" width="48"/><br>
-<sub><b>Hyprland</b></sub>
-</td>
-<td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/enkia/tokyo-night-vscode-theme/master/icon.png" width="48"/><br>
-<sub><b>Tokyo Night</b></sub>
-</td>
-</tr>
-</table>
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-00B4D8?style=for-the-badge&logo=wayland&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-C678DD?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![Tokyo Night](https://img.shields.io/badge/Tokyo_Night-1A1B26?style=for-the-badge&logo=visualstudiocode&logoColor=7AA2F7)
 
 </details>
 
@@ -248,78 +250,52 @@ My Setup:
 
 ## 📚 Learning Journey
 
+<div align="center">
+
 <details open>
 <summary><b>🎯 What I'm Focusing On Right Now</b></summary>
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
+**💻 C++ Learning Path**
 
-#### 💻 C++ Learning Path
-- ✅ Basic syntax & variables
-- ✅ Functions & control flow
-- 🔄 Object-oriented programming
-- 🔄 File handling & streams
-- 📋 STL basics (vectors, maps)
-- 📋 Memory management
-- 📋 Building Banking System
+![Basics](https://img.shields.io/badge/✅_Basic_Syntax-Success-9ece6a?style=flat-square)
+![Functions](https://img.shields.io/badge/✅_Functions-Success-9ece6a?style=flat-square)
+![OOP](https://img.shields.io/badge/🔄_OOP-Learning-e0af68?style=flat-square)
+![Files](https://img.shields.io/badge/🔄_File_I/O-Learning-e0af68?style=flat-square)
+![STL](https://img.shields.io/badge/📋_STL-Planned-7aa2f7?style=flat-square)
+![Memory](https://img.shields.io/badge/📋_Memory-Planned-7aa2f7?style=flat-square)
 
-**Status:** Learning daily through practice
+**🐍 Python Exploration**
 
-</td>
-<td width="50%">
+![Syntax](https://img.shields.io/badge/✅_Python_Basics-Success-9ece6a?style=flat-square)
+![Files](https://img.shields.io/badge/🔄_File_Operations-Learning-e0af68?style=flat-square)
+![Modules](https://img.shields.io/badge/🔄_Modules-Learning-e0af68?style=flat-square)
+![CLI](https://img.shields.io/badge/📋_CLI_Tools-Planned-7aa2f7?style=flat-square)
+![Auto](https://img.shields.io/badge/📋_Automation-Planned-7aa2f7?style=flat-square)
 
-#### 🐍 Python Exploration
-- ✅ Python basics & syntax
-- 🔄 File operations
-- 🔄 Working with modules
-- 📋 CLI tool development
-- 📋 Automation scripts
-- 📋 Data handling
+**🐧 Linux Experience**
 
-**Status:** Exploring through small projects
+![Arch](https://img.shields.io/badge/✅_Arch_Linux-Daily_Use-9ece6a?style=flat-square)
+![Hyprland](https://img.shields.io/badge/✅_Hyprland-Configured-9ece6a?style=flat-square)
+![Shell](https://img.shields.io/badge/🔄_Shell_Scripts-Learning-e0af68?style=flat-square)
+![Admin](https://img.shields.io/badge/📋_Sysadmin-Planned-7aa2f7?style=flat-square)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+**🔧 Development Skills**
 
-#### 🐧 Linux Experience
-- ✅ Daily Arch Linux user
-- ✅ Hyprland configuration
-- ✅ Kitty terminal setup
-- 🔄 Shell scripting basics
-- 📋 System administration
-- 📋 Package management
+![Git](https://img.shields.io/badge/✅_Git_Basics-Success-9ece6a?style=flat-square)
+![GitHub](https://img.shields.io/badge/✅_GitHub-Active-9ece6a?style=flat-square)
+![Emacs](https://img.shields.io/badge/🔄_Emacs-Learning-e0af68?style=flat-square)
+![Docker](https://img.shields.io/badge/📋_Docker-Planned-7aa2f7?style=flat-square)
+![CMake](https://img.shields.io/badge/📋_CMake-Planned-7aa2f7?style=flat-square)
 
-**Environment:** Arch + Hyprland + Tokyo Night
+<br>
 
-</td>
-<td width="50%">
-
-#### 🔧 Development Skills
-- ✅ Git basics (commit, push, pull)
-- ✅ GitHub repositories
-- 🔄 Emacs learning
-- 🔄 Terminal productivity
-- 📋 Docker basics
-- 📋 Build systems (CMake)
-
-**Goal:** Improve workflow efficiency
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Legend:** ✅ Learning | 🔄 Practicing | 📋 Next Steps
-
-</div>
+**Legend:** `✅ Learning` `🔄 Practicing` `📋 Next Steps`
 
 </details>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
