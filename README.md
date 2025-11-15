@@ -97,17 +97,6 @@ console.log(`${Goharithm.role} on a journey of continuous learning! 🚀`);
 
 <div align="center">
 
-<!-- Project Cards with Beautiful Theme -->
-<a href="https://github.com/goharithm/banking-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goharithm&repo=banking-system&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-
-<a href="https://github.com/goharithm/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=goharithm&repo=dotfiles&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5" />
-</a>
-
-<br><br>
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -185,7 +174,7 @@ My Setup:
 ### 🐧 Operating Systems & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,nixos,ubuntu&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,nixos,fedora&theme=dark" />
 </p>
 
 ### 🛠️ Development Tools
@@ -199,19 +188,19 @@ My Setup:
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=arch&theme=dark" width="48"/><br>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/archlinux.svg" width="48" style="filter: invert(47%) sepia(96%) saturate(2239%) hue-rotate(184deg) brightness(99%) contrast(101%);"/><br>
 <sub><b>Arch Linux</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://skillicons.dev/icons?i=emacs&theme=dark" width="48"/><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" width="48"/><br>
 <sub><b>Emacs</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://avatars.githubusercontent.com/u/67168647?s=96&v=4" width="48"/><br>
+<img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" width="48"/><br>
 <sub><b>Kitty</b></sub>
 </td>
 <td align="center" width="20%">
-<img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/icons/hyprland-logo-circle.svg" width="48"/><br>
+<img src="https://raw.githubusercontent.com/hyprwm/Hyprland/main/assets/hyprland.svg" width="48"/><br>
 <sub><b>Hyprland</b></sub>
 </td>
 <td align="center" width="20%">
@@ -439,11 +428,7 @@ My Setup:
 <div align="center">
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/goharithm/goharithm/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/goharithm/goharithm/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/goharithm/goharithm/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 
 <br><br>
 
