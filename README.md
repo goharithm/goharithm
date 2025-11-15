@@ -82,7 +82,7 @@ console.log(`${Goharithm.role} on a journey of continuous learning! 🚀`);
 </td>
 <td align="center" width="25%">
 <br>
-<img src="https://img.icons8.com/fluency/96/arch-linux.png" width="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="64"/>
 <br><br>
 <b>Arch + Hyprland</b>
 <br>
