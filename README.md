@@ -82,7 +82,7 @@ console.log(`${Goharithm.role} on a journey of continuous learning! 🚀`);
 </td>
 <td align="center" width="25%">
 <br>
-<span style="font-size: 64px;">🐧</span>
+<img src="https://img.icons8.com/fluency/96/linux.png" width="64"/>
 <br><br>
 <b>Arch + Hyprland</b>
 <br>
